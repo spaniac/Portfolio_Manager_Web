@@ -17,4 +17,25 @@
 * 인프라 구축과 관련된 운영체제, 네트워크 지식을 공부한다.
 
 ## 3. 설계
-### 인프라 설계
+### 기술
+| 분류 | 사용 기술 |
+|---:|---|
+| 서버 | AWS EC2 (Back, Front) |
+| 언어 / 프레임워크 | Java / Spring Boot(Back) <br> React(Front) |
+| DB | MySQL(Docker) |
+| Cache | Redis(Docker) |
+| Containter | Docker |
+| Orchastration | Kubernetes |
+| VCS | GitHub |
+| CI | Jenkins (미정) |
+| Monitoring | 미정 |
+
+### 시스템 구조
+![](./readme_image/IMG_2815.JPG)
+
+### 세부 기능
+설계 중.
+* 이력
+* 포트폴리오
+* 포스팅
+* 일기
